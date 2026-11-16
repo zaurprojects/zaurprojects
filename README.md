@@ -3,7 +3,7 @@
 Computer Engineering graduate from Baku, working toward **Data Engineering**.
 I learn by building: I take a real question, find the data, and work it through end to end.
 
-🌐 **[zaurprojects.github.io](https://zaurprojects.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) · 📫 zaurkhosrovov@email.com
+🌐 **[zaurprojects.github.io](https://zaurprojects.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) · 📫 [Say hello!](zaurkhosrovov@email.com)
 
 ---
 
