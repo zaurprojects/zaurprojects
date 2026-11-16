@@ -1,4 +1,4 @@
-### Hey there, it is me, Zaur 👋
+### A data engineer welcomes you here 👋
 
 Computer Engineering graduate from Baku, working toward **Data Engineering**.
 I learn by building: I take a real question, find the data, and work it through end to end.
